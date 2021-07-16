@@ -6,7 +6,7 @@ title: Dr. Sebastian Sternberg
 superuser: true
 
 # Role/position/tagline
-role: Senior Data Scientist // Data Science Translator // Data Science Consultant
+role: Senior Data Scientist // Data Science Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
