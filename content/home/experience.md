@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Team lead NLP
-        * Information Extraction using NLP from documents
+        * Information Extraction using NLP from documents (OCR, machine learning, rule-based methods)
         * Text classification using machine learning
         * Stake-holder communication and PMO
         * DevOps, Git, Kubernetes
